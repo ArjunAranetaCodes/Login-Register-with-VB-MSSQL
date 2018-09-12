@@ -1,0 +1,10 @@
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLLoginReg\VBMSSQLLoginReg\bin\Debug\VBMSSQLLoginReg.exe.config
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLLoginReg\VBMSSQLLoginReg\bin\Debug\VBMSSQLLoginReg.exe
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLLoginReg\VBMSSQLLoginReg\bin\Debug\VBMSSQLLoginReg.pdb
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLLoginReg\VBMSSQLLoginReg\bin\Debug\VBMSSQLLoginReg.xml
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLLoginReg\VBMSSQLLoginReg\obj\Debug\VBMSSQLLoginReg.Form1.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLLoginReg\VBMSSQLLoginReg\obj\Debug\VBMSSQLLoginReg.Resources.resources
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLLoginReg\VBMSSQLLoginReg\obj\Debug\VBMSSQLLoginReg.vbproj.GenerateResource.Cache
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLLoginReg\VBMSSQLLoginReg\obj\Debug\VBMSSQLLoginReg.exe
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLLoginReg\VBMSSQLLoginReg\obj\Debug\VBMSSQLLoginReg.xml
+C:\Users\Arjun\Documents\Visual Studio 2013\Projects\VBMSSQLLoginReg\VBMSSQLLoginReg\obj\Debug\VBMSSQLLoginReg.pdb
